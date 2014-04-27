@@ -1,6 +1,7 @@
-#Data Transformation for tidy data set
+Data Transformation for tidy data set
 
-The tidy data set was derived from the following steps:
+The tidy data set was derived from the following steps
+
 1. open the following files from the source data set
 a. test data set
 b. test data set labels
