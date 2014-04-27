@@ -1,7 +1,7 @@
-extractData <- function(path){
+extractData <- function(){
   
   library(data.table)
-  
+  path <- "UCI HAR Dataset"
   #----------------
   # Setup path variables
   #----------------
@@ -78,3 +78,4 @@ extractData <- function(path){
   write.table(data, "tidy.txt")
 
 }
+
