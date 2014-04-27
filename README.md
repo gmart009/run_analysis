@@ -1,4 +1,4 @@
-#Date: 4.25.2013
+#Date: 4.25.2013 
 
 The run_analysis.R script uses only one function.  The extractData function.  The run_analysis.R and UCI HAR Dataset folder from the project's dataset need to be located in the working directory of RStudio.  
 

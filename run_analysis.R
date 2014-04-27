@@ -1,3 +1,7 @@
+# The extractData function does not take any parameters
+# It merges the test and train data sets into one data set
+# the merged data set is saved in the current working directory as tidy.txt
+
 extractData <- function(){
   
   library(data.table)
